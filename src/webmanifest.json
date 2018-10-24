@@ -1,0 +1,8 @@
+{
+  "name": "No Framework Demo",
+  "short_name": "nf-demo",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "Demo web app that does not use large Javascript frameworks"
+}
